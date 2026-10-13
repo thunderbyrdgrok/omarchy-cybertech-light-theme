@@ -1,0 +1,36 @@
+# Cybertech Light — daylight mode of the Proton Hub field journal.
+# The same sharp cyan geometry, drawn on the pale field instead of the night one.
+mode = "light"
+
+accent = "#087888"
+selection = "#c5e4ea"
+muted = "#3e6270"
+
+background = "#e7f3f6"
+dark_background = "#d4e8ed"
+darker_background = "#c3dde4"
+lighter_background = "#f4fbfc"
+
+foreground = "#062028"
+dark_foreground = "#5d7c88"
+light_foreground = "#1e4652"
+bright_foreground = "#04161c"
+
+red = "#d0122a"
+yellow = "#9a6408"
+orange = "#8a520c"
+green = "#0c7a58"
+cyan = "#087888"
+blue = "#0a6794"
+magenta = "#c2186a"
+brown = "#6b4520"
+
+bright_red = "#b10f24"
+bright_yellow = "#7f5206"
+bright_green = "#096348"
+bright_cyan = "#066270"
+bright_blue = "#085578"
+bright_magenta = "#a01458"
+
+hyprland_active_border = "rgba(087888ee)"
+hyprland_inactive_border = "rgba(5d7c8899)"
